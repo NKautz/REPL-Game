@@ -114,3 +114,4 @@ if users_choice.include? "caulk"
 if users_choice.include? "turn around"
   puts "GAME OVER. You barely even started down the trail. What a waste."
 end
+#YO
